@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+🔗 https://customer-churn-prediction-xlyofxjs3fzvvhtjscwuds.streamlit.app/
+
+
 # 📊 Customer Churn Prediction Web App
 
 This is a Machine Learning based web application built using Streamlit.  
